@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AI-Face-detection/static/css/main.d8a4e95d.chunk.css",
+    "main.js": "/AI-Face-detection/static/js/main.1f1eedc4.chunk.js",
+    "main.js.map": "/AI-Face-detection/static/js/main.1f1eedc4.chunk.js.map",
+    "runtime-main.js": "/AI-Face-detection/static/js/runtime-main.042874e8.js",
+    "runtime-main.js.map": "/AI-Face-detection/static/js/runtime-main.042874e8.js.map",
+    "static/css/2.c40930e6.chunk.css": "/AI-Face-detection/static/css/2.c40930e6.chunk.css",
+    "static/js/2.75535d8b.chunk.js": "/AI-Face-detection/static/js/2.75535d8b.chunk.js",
+    "static/js/2.75535d8b.chunk.js.map": "/AI-Face-detection/static/js/2.75535d8b.chunk.js.map",
+    "index.html": "/AI-Face-detection/index.html",
+    "precache-manifest.6db348aac88191f7e7ea440440e9b19b.js": "/AI-Face-detection/precache-manifest.6db348aac88191f7e7ea440440e9b19b.js",
+    "service-worker.js": "/AI-Face-detection/service-worker.js",
+    "static/css/2.c40930e6.chunk.css.map": "/AI-Face-detection/static/css/2.c40930e6.chunk.css.map",
+    "static/css/main.d8a4e95d.chunk.css.map": "/AI-Face-detection/static/css/main.d8a4e95d.chunk.css.map",
+    "static/js/2.75535d8b.chunk.js.LICENSE.txt": "/AI-Face-detection/static/js/2.75535d8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.042874e8.js",
+    "static/css/2.c40930e6.chunk.css",
+    "static/js/2.75535d8b.chunk.js",
+    "static/css/main.d8a4e95d.chunk.css",
+    "static/js/main.1f1eedc4.chunk.js"
+  ]
+}
